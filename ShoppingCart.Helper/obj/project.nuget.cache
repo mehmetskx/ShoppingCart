@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "klGHo+gQnjRL2eOtRHMVAytOmUoL8KjASzYgsbk3gKh/lyY3o1dSjngr9NonlgFIXhJqIVEx+rHPIFApvP6k/w==",
+  "dgSpecHash": "0ZcNxFt6AInvWzdr8wx4glvHvzGDT+W/78RiT6fjh8p4arDfWlyOxkiOXaXX//IiHJc/rE0ud2SBotRFRLkB8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj",
+  "projectFilePath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mehmet\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Mehmet\\.nuget\\packages\\automapper.collection\\7.0.1\\automapper.collection.7.0.1.nupkg.sha512",

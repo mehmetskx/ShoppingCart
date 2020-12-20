@@ -5804,11 +5804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj",
+      "projectUniqueName": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj",
       "projectName": "ShoppingCart.Data",
-      "projectPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj",
+      "projectPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj",
       "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Data\\obj\\",
+      "outputPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

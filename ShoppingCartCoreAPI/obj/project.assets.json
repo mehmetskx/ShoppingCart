@@ -5709,11 +5709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCartCoreAPI\\ShoppingCartCoreAPI.csproj",
+      "projectUniqueName": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCartCoreAPI\\ShoppingCartCoreAPI.csproj",
       "projectName": "ShoppingCartCoreAPI",
-      "projectPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCartCoreAPI\\ShoppingCartCoreAPI.csproj",
+      "projectPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCartCoreAPI\\ShoppingCartCoreAPI.csproj",
       "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCartCoreAPI\\obj\\",
+      "outputPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCartCoreAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5734,11 +5734,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Business\\ShoppingCart.Business.csproj": {
-              "projectPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Business\\ShoppingCart.Business.csproj"
+            "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Business\\ShoppingCart.Business.csproj": {
+              "projectPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Business\\ShoppingCart.Business.csproj"
             },
-            "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj": {
-              "projectPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj"
+            "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj": {
+              "projectPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj"
             }
           }
         }

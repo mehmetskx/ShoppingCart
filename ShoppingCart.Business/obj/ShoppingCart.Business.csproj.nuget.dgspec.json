@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Business\\ShoppingCart.Business.csproj": {}
+    "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Business\\ShoppingCart.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Business\\ShoppingCart.Business.csproj": {
+    "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Business\\ShoppingCart.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Business\\ShoppingCart.Business.csproj",
+        "projectUniqueName": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Business\\ShoppingCart.Business.csproj",
         "projectName": "ShoppingCart.Business",
-        "projectPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Business\\ShoppingCart.Business.csproj",
+        "projectPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Business\\ShoppingCart.Business.csproj",
         "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Business\\obj\\",
+        "outputPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,11 +32,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj": {
-                "projectPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj"
+              "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj": {
+                "projectPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj"
               },
-              "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj": {
-                "projectPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj"
+              "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj": {
+                "projectPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj": {
+    "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj",
+        "projectUniqueName": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj",
         "projectName": "ShoppingCart.Data",
-        "projectPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj",
+        "projectPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj",
         "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Data\\obj\\",
+        "outputPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj": {
+    "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj",
+        "projectUniqueName": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj",
         "projectName": "ShoppingCart.Helper",
-        "projectPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj",
+        "projectPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj",
         "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Helper\\obj\\",
+        "outputPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Helper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -174,8 +174,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj": {
-                "projectPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj"
+              "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj": {
+                "projectPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj"
               }
             }
           }

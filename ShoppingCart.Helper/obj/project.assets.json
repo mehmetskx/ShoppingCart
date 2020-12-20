@@ -5601,11 +5601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj",
+      "projectUniqueName": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj",
       "projectName": "ShoppingCart.Helper",
-      "projectPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj",
+      "projectPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Helper\\ShoppingCart.Helper.csproj",
       "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Helper\\obj\\",
+      "outputPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Helper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5626,8 +5626,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj": {
-              "projectPath": "C:\\Users\\Mehmet\\Desktop\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj"
+            "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj": {
+              "projectPath": "C:\\Projects\\ShoppingCart\\ShoppingCart\\ShoppingCart.Data\\ShoppingCart.Data.csproj"
             }
           }
         }

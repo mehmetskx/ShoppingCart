@@ -23,12 +23,6 @@ namespace ShoppingCart.Data.Derived.EFRepository
         {
             //One person has got one shopping cart
             return await _table.SingleOrDefaultAsync(x => x.CreatedBy == userId && x.IsActive == true);
-        }
-        public async Task<ShoppingCart.Data.Entities.ShoppingCart> AddTrackingAsync(ShoppingCart.Data.Entities.ShoppingCart shoppingCart)
-        {
-            await _table.AddAsync(shoppingCart);
-            var asdd = _context.Entry(shoppingCart).GetDatabaseValues();
-            return null;
-        }
+        }       
     }
 }
